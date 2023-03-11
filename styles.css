@@ -1,0 +1,42 @@
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: larger;
+}
+
+.change-color{
+    color: rgb(230, 53, 200);
+
+}
+
+body{
+    background-color: rgb(69, 41, 95);
+}
+
+img{
+    width: 500px;
+    border-radius: 250px;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: larger;
+    color: rgb(230, 53, 200);
+}
+
+a{
+    text-decoration: none;
+    color: aquamarine;
+}
+
+a:visited{
+    text-decoration: none;
+    color: aquamarine;
+}
+a:hover{
+    color: rgb(230, 53, 200);
+}
+
+div{
+    width: 100%;
+}
+
